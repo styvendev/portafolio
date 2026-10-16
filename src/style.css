@@ -1,7 +1,4 @@
 @import 'tailwindcss';
-.menu div {
-  width: 50%;
-}
 
 .colorGray {
   color: #414141;

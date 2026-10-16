@@ -1,6 +1,6 @@
-# portafolio
+# Portafolio
 
-my portafolio.
+My portafolio.
 
 ## Project Setup
 
