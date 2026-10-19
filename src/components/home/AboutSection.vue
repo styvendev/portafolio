@@ -1,7 +1,7 @@
 <template>
-  <section class="px-8 py-4 colorGray">
-    <h2 class="font-bold text-center text-2xl">Acerca de mí</h2>
-    <p class="text-lg m-8">
+  <section class="md:px-8 md:py-6 colorGray">
+    <h2 class="font-bold text-center text-2xl p-4">Acerca de mí</h2>
+    <p class="md:text-lg py-6 mx-8 text-justify">
       Software Developer con más de 4 años de experiencia trabajando con aplicaciones y servicios de
       software, soporte e integraciones. Actualmente me desempeño como Agente de Soporte Nivel 2,
       donde trabajo con APIs, Web Services, bases de datos, AWS, Windows Server y Linux, realizando
